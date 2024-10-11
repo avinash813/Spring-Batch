@@ -9,7 +9,7 @@ public class CustomerProcessor implements ItemProcessor<Customer, Customer>
 	public Customer process(Customer item)
 	{
 		
-		//logic to process/filter /perform oprn
+		//logic to process/filter
 		System.out.println("Processor");
 		return item;
 		
