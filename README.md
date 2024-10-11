@@ -6,4 +6,4 @@ This project uses Spring Batch to read data from CSV file and store it in a data
   3. JPA  
   4. MySql  
   
-**Note:** Create a database with name specified in your properties or yaml file and run the project schema will be built automatically.
+**Note:** Create a database with name specified in your properties or yaml file and run the project, schema will be built automatically and csv data will get stored into your database.
