@@ -1,5 +1,5 @@
 # Spring Batch
-This project uses Spring Batch to read data from CSV files and store it in a database. It efficiently handles large datasets with chunk processing. A REST endpoint is provided to trigger the import, making it easy to integrate data into applications.  
+This project uses Spring Batch to read data from CSV file and store it in a database. It efficiently handles large datasets with chunk processing. A REST endpoint is provided to trigger the import, making it easy to integrate data into applications.  
 ## Technologies :  
   1. SpringBoot  
   2. SpringBatch  
